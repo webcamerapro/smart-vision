@@ -1,6 +1,6 @@
 # SmartVision
 
-SmartVision
+SmartVision - Free CCTV Software
 
 https://smartvision.dev
 
